@@ -5,9 +5,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
 </div>
 
-<div align="ccenter">
-👋 Hi there, I'm Sachin Burnwal
-</div>  
+<div align="center">
+  <h2>👋 Hi there, I'm <span style="color:#00C4FF;">Sachin Burnwal</span></h2>
+</div>
 <br>
 I’m a full-stack developer and cybersecurity enthusiast driven by a deep passion for building more than just functional apps — I strive to create intelligent, immersive, and meaningful digital experiences that leave a lasting impact.<br>From sketching wild ideas on paper to transforming them into fully functional, user-centric web apps, I thrive at the intersection of creativity, code, and cyber awareness. I believe technology should not only work — it should feel powerful, look futuristic, and stay secure at its core.<br>🕸️ Creator of SpiderWeb – A Cyber Recon Toolkit with features like Username Scanner, Email Breach Checker, IP Threat Intelligence, and more.<br><br>💻 Full-Stack Dev – React, Node.js, Express, MongoDB, Tailwind, and GSAP.<br><br>🕵️‍♂️ Cybersecurity Explorer – Pen-testing basics, data leaks, and threat intelligence.<br><br>🤖 AI Integrator – Building smart features using OpenAI/Gemini APIs.<br><br>🚀 Currently Building: SPIDERWEB<br>🔬 Advanced threat recon tools<br><br>✨ Scroll-based 3D storytelling experiences<br><br>💥 Tools that fuse automation, OSINT, and cyber design<br><br>📫
 🧠 Always curious about new tech ideas<br><br>🔍 Open to collaborations on security tools, intelligent systems & futuristic UI projects<br><br>💡 "Code like an artist. Think like a hacker. Build like a visionary."
