@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💫 About Me</h1>
+  <h1>💫 ABOUT ME</h1>
 </div>
 
 # CODE like an ARTIST. Think like a HACKER. Build like a VISIONARY.
