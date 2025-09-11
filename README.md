@@ -1,6 +1,5 @@
 <div align="center">
   <h1>💫 About Me</h1>
-  <hr style="width:50%; border:1px solid #00C4FF;" />
 </div>
 
 # CODE like an ARTIST. Think like a HACKER. Build like a VISIONARY.
