@@ -1,4 +1,6 @@
+<div align="center"> 
 # 💫 About Me:
+</div>  
 # CODE like an ARTIST. Think like a HACKER. Build like a VISIONARY.
 
 <div align="center">
