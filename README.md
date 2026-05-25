@@ -4,8 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:7c3aed,100:ff2d78&height=200&section=header&text=SACHIN%20BURNWAL&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=55&descColor=00ffe7" width="100%"/>
 
 <!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFE7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=🚀+Building+Intelligent+Web+Experiences;🛡️+Securing+Systems%2C+One+Line+at+a+Time;⚡+Full-Stack+Magic+%7C+React+%2B+Node+%2B+Cloud;🌐+Where+Creativity+Meets+Code+%26+Cybersecurity;💡+Crafting+Immersive+Digital+Futures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=00FFE7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=700&amp;height=45&amp;lines=%F0%9F%9A%80%20Building%20Intelligent%20Web%20Experiences;%F0%9F%9B%A1%EF%B8%8F%20Securing%20Systems%2C%20One%20Line%20at%20a%20Time;%E2%9A%A1%20Full-Stack%20Magic%20%7C%20React%20%2B%20Node%20%2B%20Cloud;%F0%9F%8C%90%20Where%20Creativity%20Meets%20Code%20%26%20Cybersecurity;%F0%9F%92%A1%20Crafting%20Immersive%20Digital%20Futures" alt="Typing SVG" />
 </a>
 
 <br/>
