@@ -1,32 +1,237 @@
 <div align="center">
-  <h1>💫 ABOUT ME</h1>
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:7c3aed,100:ff2d78&height=200&section=header&text=SACHIN%20BURNWAL&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=55&descColor=00ffe7" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFE7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=🚀+Building+Intelligent+Web+Experiences;🛡️+Securing+Systems%2C+One+Line+at+a+Time;⚡+Full-Stack+Magic+%7C+React+%2B+Node+%2B+Cloud;🌐+Where+Creativity+Meets+Code+%26+Cybersecurity;💡+Crafting+Immersive+Digital+Futures" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+[![](https://komarev.com/ghpvc/?username=sachinburnwal22&color=00ffe7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sachinburnwal22)
+[![GitHub followers](https://img.shields.io/github/followers/sachinburnwal22?style=for-the-badge&color=ff2d78&labelColor=0d1117&label=FOLLOWERS)](https://github.com/sachinburnwal22?tab=followers)
+
 </div>
-
-# CODE like an ARTIST. Think like a HACKER. Build like a VISIONARY.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
-</div>
-
-<div align="center">
-  <h2>👋 Hi there, I'm <span style="color:#00C4FF;">Sachin Burnwal</span></h2>
-</div>
-
-I’m a full-stack developer and cybersecurity enthusiast driven by a deep passion for building more than just functional apps — I strive to create intelligent, immersive, and meaningful digital experiences that leave a lasting impact.<br>From sketching wild ideas on paper to transforming them into fully functional, user-centric web apps, I thrive at the intersection of creativity, code, and cyber awareness. I believe technology should not only work — it should feel powerful, look futuristic, and stay secure at its core.<br>🕸️ Creator of SpiderWeb – A Cyber Recon Toolkit with features like Username Scanner, Email Breach Checker, IP Threat Intelligence, and more.<br><br>💻 Full-Stack Dev – React, Node.js, Express, MongoDB, Tailwind, and GSAP.<br><br>🕵️‍♂️ Cybersecurity Explorer – Pen-testing basics, data leaks, and threat intelligence.<br><br>🤖 AI Integrator – Building smart features using OpenAI/Gemini APIs.<br><br>🚀 Currently Building: SPIDERWEB<br>🔬 Advanced threat recon tools<br><br>✨ Scroll-based 3D storytelling experiences<br><br>💥 Tools that fuse automation, OSINT, and cyber design<br><br>📫
-🧠 Always curious about new tech ideas<br><br>🔍 Open to collaborations on security tools, intelligent systems & futuristic UI projects<br><br>💡 "Code like an artist. Think like a hacker. Build like a visionary."
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-burnwal-2004sb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinburnwal22@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sachinburnwal22&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sachinburnwal22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinburnwal22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sachinburnwal22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ABOUT ME -->
+## 💫 About Me
+
+```typescript
+const sachin = {
+  name        : "Sachin Burnwal",
+  location    : "Delhi, India 🇮🇳",
+  role        : "Full-Stack Developer & Cybersecurity Enthusiast",
+  passion     : "Building intelligent, immersive & secure digital experiences",
+  currentFocus: ["Web Security", "Full-Stack Architecture", "Cloud-Native Apps"],
+  philosophy  : "Code should feel powerful, look futuristic & stay secure at its core.",
+  funFact     : "I debug in the dark — literally. Dark mode is non-negotiable. 🌑",
+  openTo      : ["Collaborations", "Open Source", "Freelance Projects"],
+};
+```
+
+> *"Security is not a product, but a process — and neither is great software.*
+> *Build with intent, deploy with precision, and always leave the system better than you found it."*
+> — Sachin Burnwal
+
+---
+
+<!-- SKILLS -->
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ⚡ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=sachinburnwal22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ffe7&icon_color=ff2d78&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=12" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=sachinburnwal22&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffe7&fire=ff2d78&currStreakLabel=00ffe7&sideLabels=c9d1d9&border_radius=12" width="49%" alt="Streak Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sachinburnwal22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=00ffe7&text_color=c9d1d9&bg_color=0d1117&border_radius=12" width="36%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinburnwal22&bg_color=0d1117&color=00ffe7&line=7c3aed&point=ff2d78&area=true&hide_border=true&area_color=00ffe720&border_radius=12" width="62%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sachinburnwal22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinburnwal22/sachinburnwal22/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachinburnwal22/sachinburnwal22/output/github-snake.svg"/>
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sachinburnwal22/sachinburnwal22/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+> **💡 Tip:** To enable the snake animation, create a GitHub Actions workflow in your profile repo.
+> See setup instructions below in the README.
+
+---
+
+<!-- QUOTES -->
+## ✍️ Dev Philosophy
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Dev Quote"/>
+
+</div>
+
+> *"The best security is the one that becomes invisible — seamless, silent, and unbreakable."*
+
+> *"Every pixel I place, every function I write — it's not just code. It's craft."*
+
+> *"Build for the edge cases. The happy path is easy. Excellence lives in the exceptions."*
+
+---
+
+<!-- TOP REPOS -->
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=sachinburnwal22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ffe7&text_color=c9d1d9" width="100%" alt="Top Contributed Repos"/>
+
+</div>
+
+---
+
+<!-- CONNECT -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-burnwal-2004sb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinburnwal22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinburnwal22)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@SACHINBURNWAL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffe7?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/sachinburnwal22)
+
+<br/>
+
+**"The web is my canvas. Security is my shield. Code is my language."**
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,50:7c3aed,100:00ffe7&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<!-- 
+═══════════════════════════════════════════════
+  SNAKE ANIMATION SETUP (GitHub Actions)
+═══════════════════════════════════════════════
+
+Create this file in your profile repo:
+  .github/workflows/snake.yml
+
+Paste the following content:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+═══════════════════════════════════════════════
+-->
