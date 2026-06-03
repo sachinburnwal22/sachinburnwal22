@@ -106,7 +106,7 @@ const sachin = {
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=sachinburnwal22&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ffe7&icon_color=ff2d78&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=12" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=sachinburnwal22&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffe7&fire=ff2d78&currStreakLabel=00ffe7&sideLabels=c9d1d9&border_radius=12" width="49%" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sachinburnwal22&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffe7&fire=ff2d78&currStreakLabel=00ffe7&sideLabels=c9d1d9&border_radius=12" width="49%" alt="Streak Stats"/>
 
 <br/><br/>
 
@@ -122,7 +122,7 @@ const sachin = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachinburnwal22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sachinburnwal22&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -168,7 +168,7 @@ const sachin = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=sachinburnwal22&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ffe7&text_color=c9d1d9" width="100%" alt="Top Contributed Repos"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachinburnwal22&theme=tokyonight&bg_color=0d1117&title_color=00ffe7&text_color=c9d1d9" width="100%" alt="Top Contributed Repos"/>
 
 </div>
 
